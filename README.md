@@ -1,8 +1,5 @@
 # auto-generation-of-distictive-features
 
-Here’s a README.md file you can use as an introduction to your app:
-
-IPA Feature Lookup Tool
 Overview
 The IPA Feature Lookup Tool is a simple and efficient application designed to help linguists, researchers, and language enthusiasts retrieve the distinctive phonological features of any IPA (International Phonetic Alphabet) phone. Users can input an IPA symbol, and the app will instantly display its associated features, such as consonantal, sonorant, voice, nasal, and more.
 
